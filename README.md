@@ -1,0 +1,2 @@
+# minimarket
+sistema de ventas
